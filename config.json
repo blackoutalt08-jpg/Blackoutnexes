@@ -1,0 +1,23 @@
+{
+  "guilds": {
+    "1552794707535466566": {
+      "welcomeMessage": "Welcome {user} to {server}!",
+      "welcomeChannel": "1552800460266803251",
+      "welcomeRoles": [
+        "1552800442407321720"
+      ],
+      "rolesChannel": "1552800482702135336",
+      "ticketPanel": "1552800607117779026",
+      "ticketCategory": "1552817915961810945",
+      "rulesChannel": "1552794854424182866",
+      "announcementChannel": "1552800476628516984",
+      "youtubeChannel": "1552800516311093258",
+      "streamChannel": "1552800505414164520",
+      "staffRole": "1552800918112575640",
+      "youtubeRole": "1552800444290695168",
+      "streamRole": "1552800442960969750",
+      "tiktokRole": "1552800445519364166",
+      "lastYoutube": "yt:video:DCOTQu6Sh9g"
+    }
+  }
+}

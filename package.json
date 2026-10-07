@@ -1,0 +1,15 @@
+{
+  "name": "blackoutna1-standalone-community-bot",
+  "version": "1.0.0",
+  "description": "Standalone Blackoutna1 Discord community management bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.4.5",
+    "rss-parser": "^3.13.0"
+  }
+}

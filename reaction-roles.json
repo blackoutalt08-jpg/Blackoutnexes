@@ -1,0 +1,55 @@
+{
+  "_instructions": [
+    "Edit this file to control the button roles shown by the bot.",
+    "role_name must EXACTLY match an existing Discord server role.",
+    "id must be unique and should only use letters, numbers, hyphens, or underscores.",
+    "label is the text shown on the Discord button.",
+    "emoji can be a normal Unicode emoji.",
+    "style can be Primary, Secondary, Success, or Danger.",
+    "enabled=false hides that role.",
+    "You may add more role objects. Discord allows up to 5 buttons per row; the bot automatically creates additional rows.",
+    "After changes: save this file, restart the bot, then run /post-panels."
+  ],
+  "roles": [
+    {
+      "id": "youtube",
+      "role_name": "▶️ YouTube Ping",
+      "label": "YouTube Ping",
+      "emoji": "▶️",
+      "style": "Secondary",
+      "enabled": true
+    },
+    {
+      "id": "stream",
+      "role_name": "🔴 Stream Ping",
+      "label": "Stream Ping",
+      "emoji": "🔴",
+      "style": "Secondary",
+      "enabled": true
+    },
+    {
+      "id": "tiktok",
+      "role_name": "🎵 TikTok Ping",
+      "label": "TikTok Ping",
+      "emoji": "🎵",
+      "style": "Secondary",
+      "enabled": true
+    },
+    {
+      "id": "event",
+      "role_name": "🎉 Event Ping",
+      "label": "Event Ping",
+      "emoji": "🎉",
+      "style": "Secondary",
+      "enabled": true
+    },
+    {
+      "id": "giveaway",
+      "role_name": "🎁 Giveaway Ping",
+      "label": "Giveaway Ping",
+      "emoji": "🎁",
+      "style": "Secondary",
+      "enabled": true
+    }
+  ]
+}
